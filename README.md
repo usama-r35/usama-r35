@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usama-r35
-- 👀 I’m interested in learning software programming & web development leading to big data analysis
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in learning SQL, Spreadsheets and Python leading to big data analytics
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ... osamabinrahim@gmail.com
 
