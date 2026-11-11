@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @usama-r35
-- 👀 I’m interested in learning SQL, Spreadsheets and Python leading to big data analytics
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ... osamabinrahim@gmail.com
+- 📫 How to reach me ...
 
 <!---
 usama-r35/usama-r35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
